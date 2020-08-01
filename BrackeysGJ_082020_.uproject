@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.25",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "BrackeysGJ_082020_",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:327316af0db215a342a8190799ed8a1b2914fa2292a710c268d95b4713822495
+size 210
